@@ -1,0 +1,19 @@
+img {
+	width: 400px;
+	height: 0 auto;
+	margin: 0 auto;
+	padding: 20px;
+}
+table {
+	border: 5px solid gray;
+	border-collapse: collapse;
+}
+tr, td {
+	border: 2px solid gray;
+	border-collapse: collapse;
+}
+p, h4{
+	display: block;
+	padding: 10px;
+	text-align: justify;
+}

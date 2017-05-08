@@ -1,0 +1,27 @@
+div {
+	background-color: #6699ff;
+	padding: 10px;
+	color: #fff;
+	margin: 3px;
+}
+#header, #banner, #conteudo, #footer {
+	background-color: #0066cc;
+}
+#logo, #menu, #comentario, #esquerdo , #direito, #copyrighter{
+	background-color: #666666;
+}
+#noticia {
+	background-color: #999999;
+}
+.cor {
+	color: black;
+}
+table, td {
+	border: 1px solid black;
+	padding: 1px;
+	color: black;
+}
+td {
+	border: 1px solid black;
+	padding: 10px;
+}

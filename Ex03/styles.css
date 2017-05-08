@@ -1,0 +1,15 @@
+table, th, td {
+	border: 1px solid gray;
+	border-collapse: collapse;
+	border-width: 2px;
+}
+th, td {
+	padding: 8px;
+	margin: 5px;
+}
+td {
+	color: red;
+}
+.trainee {
+	color: black;
+}
